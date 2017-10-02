@@ -11,12 +11,12 @@ P = πd
 ```
 sto
 enter
-mul
+*
 4
-div
+/
 pi
-mul
+*
 rcl
 pi
-mul
+*
 ```
